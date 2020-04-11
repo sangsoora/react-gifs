@@ -10,8 +10,7 @@ class App extends Component {
     super(props);
 
     this.state = {
-      gifs: [{ id: 'QYkX9IMHthYn0Y3pcG' },
-        { id: '3otPovknsXChnFfbqg' }],
+      gifs: [],
       selectedGifId: 'QYkX9IMHthYn0Y3pcG'
     };
 
